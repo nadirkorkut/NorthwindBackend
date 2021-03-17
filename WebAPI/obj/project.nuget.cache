@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Hz8ewLr3+x2+RsIOTorJIwhhOyMUPzapcaNcRhadE9loJRbkTiE9F3JK43fqWHbnGbmrRi6G+tEJWxBkgksA1A==",
+  "dgSpecHash": "XBteo0a+k0ZNV/tjOYCYaOPaZyE0htSP8coB360nJnIN7ofs39BJj4ncn73ao0jJcOtuR9268AsSYG5hLIM5Ag==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nadir\\source\\repos\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nadir\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Nadir\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
+    "C:\\Users\\Nadir\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.11\\microsoft.aspnetcore.authentication.jwtbearer.3.1.11.nupkg.sha512",
     "C:\\Users\\Nadir\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Nadir\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
